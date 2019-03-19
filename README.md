@@ -5,6 +5,10 @@ A Haar Cascade is a classifier which is used to detect the object for which it h
 
 ## Dependencies
 Python 3.0
-OpenCV 
 
+
+OpenCV 
+```
+conda install -c menpo opencv
+```
 The code will work on any python IDE.
